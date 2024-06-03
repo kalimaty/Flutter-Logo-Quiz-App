@@ -98,25 +98,14 @@ A new Flutter project.
     تحسين واجهة المستخدم والتأكد من التوافق مع مختلف الأجهزة.
     تحسين أداء التطبيق وتقليل أي تأخير أو مشاكل.
     إعداد التطبيق للنشر على متجر التطبيقات (مثل Google Play أو Apple App Store).
+   شجرة المشروع
+   
+   
 
-شجرة المشروع
+ ![2024-06-03_133747](https://github.com/kalimaty/Flutter-Logo-Quiz-App/assets/105967966/ca703d4a-6584-4e2a-952a-b9eeb1a2af05)
 
-plaintext
 
-quiz_app/
-├── android/
-├── build/
-├── ios/
-├── lib/
-│   ├── main.dart
-│   ├── quiz_provider.dart
-│   ├── quiz_widget.dart
-│   ├── result_page.dart
-│   ├── history_widget.dart
-│   ├── timer_widget.dart
-├── test/
-├── pubspec.yaml
-└── pubspec.lock
+
 
 الوصف الوظيفي للملفات الأساسية
 
